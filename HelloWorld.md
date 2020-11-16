@@ -30,4 +30,4 @@ plot(pressure)
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 
-## is a Markdown file.
+## This is a markdown file
